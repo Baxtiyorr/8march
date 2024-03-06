@@ -26,8 +26,10 @@ html, body {
 }
 
 .card {
-    width: 800px;
-    height: 420px;
+    /* width: 800px;
+    height: 420px; */
+    width: 480px;
+    height: 531px;
     padding: 15px 30px;
 
     position: absolute;
@@ -94,3 +96,15 @@ html, body {
     }
 }
 
+/* @media screen and(max-width:640px) {
+    .card{
+        width: 480px;
+        height: 531px;
+    }
+}
+@media screen and(max-width:460px) {
+    .card{
+        width: 480px;
+        height: 531px;
+    }
+} */
