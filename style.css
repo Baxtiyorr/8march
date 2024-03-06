@@ -83,6 +83,7 @@ html, body {
     color: #121212;
     font-size: 30px;
     text-align: right;
+    margin-right: 40px;
 
     transition: opacity 1s linear;
 }
